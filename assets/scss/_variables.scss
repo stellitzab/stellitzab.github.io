@@ -3,7 +3,8 @@
 
 $font-default: Helvetica, Arial, sans-serif;
 $font-poppins: 'Poppins', $font-default;
-$font-lekton: 'Lekton', $font-default;
+$font-lekton: 'Lekton', $font-default;// TEMP:
+$font-paratype: 'Paratype', $font-default;
 
 /* Colors
  ****************************************************************/
@@ -12,8 +13,16 @@ $color-white: #fff;
 $color-black: #000;
 $color-silver-chalice: #aaa;
 $color-alabaster: #fafafa;
+$color-pewterblue: #7D98A1;
 $color-tango: #f46f25;
 $color-white-sand: #f6f6f6;
+$color-champagne: #F5D491;
+$color-pinkpop: #AA4465;
+$color-viridian: #498467;
+$color-deepspace: #586A6A;
+$color-prussian: #003049;
+$color-middleblue: #9AD2CB;
+
 
 /* Breakpoint
  ****************************************************************/

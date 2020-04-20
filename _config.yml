@@ -1,12 +1,12 @@
 # User config
-author: "Stella B"
+author: ""
 tagline: "Stellas portfolio"
-description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
-keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
+description: "I like to decorate my town in Animal Crossing and go on hikes with friends. Oh and I also enjoy building pretty stuff that eventually works."
+keywords: "Stella, coding, front-end, design, mock-up, project"
+email: "biliou.stella@gmail.com"
 linkedin: "https://www.linkedin.com/in/stella-biliou"
 twitter: "https://twitter.com/"
-github: "https://github.com/"
+github: "https://github.com/stellitzab"
 
 # Site config
 baseurl: ""

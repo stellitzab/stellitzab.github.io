@@ -1,0 +1,3 @@
+I"ô<p>In the spring of 2019 me along with 3 classmates designed and developed a system for plant monitoring. The project
+made use of two ESP32 microcontrollers along with one Raspberry Pi 3B+. A simple user interface was made with NodeRED. Light sensors and soil humidity sensors were connected to a plant and transferred data that was displayed to the user. My role in the project consisted of trying to connect a NoSQL database to the application along with designing UI together with the group. </p>
+:ET
