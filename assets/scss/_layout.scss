@@ -110,6 +110,13 @@
 		}
 	}
 
+	@media (max-width: $breakpoint-medium) {
+
+		a {
+			font-size: 87%;
+		}
+	}
+
 	a {
 		color: $color-black;
 		box-shadow: inset 0 -6px 0 rgba(245, 212, 145, 1);
