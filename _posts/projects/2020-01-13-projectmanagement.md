@@ -11,7 +11,7 @@ project:
   type: "Project management"
   url: "https://youtu.be/fgdjGyvqgU"
   logo: "/assets/images/projects/projektledning/skolan.jpg"
-  tech: "None"
+  tech: "Premiere pro, videography, team work, project management"
 
 agency:
   title: "Project group from different programs"
@@ -27,4 +27,4 @@ images:
     alt: "Shot of school"
 
 ---
-<p>In 2019 I was part of the project group that puts together an annual LAN-party for students, aimed especially at computing science/interaction and design students. The LAN-party this year took place during a weekend in November and I helped with planning tournaments, contacting sponsors, and setting up the venue etc. I introduced a new tournament in Overcooked 2 which was really appreciated. Around a 100 students attended the event which we consider a great success! </p>
+<p>For a project management course me and a couple of other students put together a short film with the purpose of attracting new students to the STEM field. This was a fun project as I have always been interested in video production and so I took the chance to edit the film on my own to learn Premiere Pro a bit better. Overall it wasn't the most serious and ambitious of projects, but it sure was exciting to interview people around campus and get to know my new camera more. </p>
