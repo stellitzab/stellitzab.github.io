@@ -11,7 +11,7 @@ project:
   type: "Project"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/idaginatt/logo.png"
-  tech: "HTML, CSS, Boostrap"
+  tech: "HTML, CSS, Bootstrap, JQuery"
 
 agency:
   title: "IDag & Inatt projektgrupp"
